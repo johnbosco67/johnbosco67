@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @johnbosco67
+- 👀 I’m interested in ...
+- 🌱 I’m currently working...
+- 💞️ I’m looking to collaborate on a freelance project...
+- 
+<!---
+johnbosco67/johnbosco67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
